@@ -157,3 +157,7 @@ just delete the **Arc Spaces** folder in Vivaldi.
   Space that isn't a web page.
 - **Tested on one Mac** (Arc with 17 Spaces and about 1,800 tabs, Vivaldi
   8.3, November 2026).
+
+## License
+
+[MIT](LICENSE)
